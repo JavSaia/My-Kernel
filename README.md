@@ -1,6 +1,6 @@
 # My Kernel - OnePlus Ace 5 Race
 
-Custom Linux 6.1 kernel for **OnePlus Ace 5 Race** (MediaTek Dimensity 9300 / MT6989 / Project 24825).
+Custom Linux 6.1 kernel for **OnePlus Ace 5 Race** (MediaTek Dimensity 9400e / MT6989 / Project 24825).
 
 ## Features
 
